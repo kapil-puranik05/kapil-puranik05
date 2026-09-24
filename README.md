@@ -57,8 +57,8 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kapil-puranik05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182420307%3Fu%3D15f5d0ed28b7b7181ada3d94617c7f072c1ad2da%26v%3D4&repos=kapil-puranik05%2FDistributed-Object-Storage-System%2Ckapil-puranik05%2FReplication-and-Consensus%2Ckapil-puranik05%2FMyNimbus%2Ckapil-puranik05%2Furja_backend&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=kapil-puranik05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182420307%3Fu%3D15f5d0ed28b7b7181ada3d94617c7f072c1ad2da%26v%3D4&repos=kapil-puranik05%2FDistributed-Object-Storage-System%2Ckapil-puranik05%2FReplication-and-Consensus%2Ckapil-puranik05%2FMyNimbus%2Ckapil-puranik05%2Furja_backend&v=recruiter-projects-1&mode=dark" width="100%" alt="Kapil Puranik selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kapil-puranik05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182420307%3Fu%3D15f5d0ed28b7b7181ada3d94617c7f072c1ad2da%26v%3D4&repos=kapil-puranik05%2FDistributed-Object-Storage-System%2Ckapil-puranik05%2FReplication-and-Consensus%2Ckapil-puranik05%2FMyNimbus&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kapil-puranik05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182420307%3Fu%3D15f5d0ed28b7b7181ada3d94617c7f072c1ad2da%26v%3D4&repos=kapil-puranik05%2FDistributed-Object-Storage-System%2Ckapil-puranik05%2FReplication-and-Consensus%2Ckapil-puranik05%2FMyNimbus&v=recruiter-projects-1&mode=dark" width="100%" alt="Kapil Puranik selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -72,9 +72,8 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/kapil-puranik05/Replication-and-Consensus">Replication-and-Consensus</a></h3><p>Custom implementation of the Raft Consensus Protocol</p><p><sub>Java · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/kapil-puranik05/MyNimbus">MyNimbus</a></h3><p>Source code for a private cloud architecture, utilizing a compute node for CI/CD.</p><p><sub>Java · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/kapil-puranik05/urja_backend">urja_backend</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/kapil-puranik05/Replication-and-Consensus">Replication-and-Consensus</a></h3><p>Custom implementation of the Raft Consensus Protocol</p><p><sub>Java · ⭐ 1</sub></p></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/kapil-puranik05/MyNimbus">MyNimbus</a></h3><p>Source code for a private cloud architecture, utilizing a compute node for CI/CD.</p><p><sub>Java · ⭐ 1</sub></p></td>
 </tr>
 </table>
 
