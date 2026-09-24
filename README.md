@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · kapil-puranik05</sub></p>
 <h1>Kapil Puranik</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Software Developer</h2>
 <p>Final Year Computer Engineering Student</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
@@ -25,7 +25,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Java · TypeScript · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack engineer · Java · TypeScript · JavaScript</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 3 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>92 contributions · 46 active days</p></td>
 </tr>
